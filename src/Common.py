@@ -2,7 +2,7 @@
 SRC_PATH = "https://www.thegioididong.com/laptop#c=44&o=13&pi="
 
 #Số lượng sản phẩm cần lấy thông tin thì chỉnh ở đây
-PRODUCT_INFO_NEED = 30
+PRODUCT_INFO_NEED = 40
 
 
 PRODUCTS_IN_ONE_PAGE = 20

@@ -1,4 +1,4 @@
-#!/home/rikka/Project/PythonTool/TGDD_Crawler/bin/python3
+#!/home/rikka/Project/PythonTool/myvenv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
