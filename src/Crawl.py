@@ -78,7 +78,6 @@ class TGDD_Crawler:
             percent = (idx + 1) / n * 100
             print("Đã hoàn thành:", str(percent)+"%")
             sleep(SLEEP_TIME)
-            print(n)
         return res
         
     def _saveData(self, data):
