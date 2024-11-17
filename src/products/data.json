@@ -1,0 +1,3404 @@
+{
+    "https://www.thegioididong.com/laptop/asus-vivobook-go-15-e1504fa-r5-nj776w?utm_flashsale=1": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "AMD Ryzen 5 - 7520U"
+            ],
+            "Số nhân:": [
+                "4"
+            ],
+            "Số luồng:": [
+                "8"
+            ],
+            "Tốc độ CPU:": [
+                "2.8GHz"
+            ],
+            "Tốc độ tối đa:": [
+                "Turbo Boost 4.3 GHz"
+            ],
+            "Bộ nhớ đệm:": [
+                "4 MB"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "16 GB"
+            ],
+            "Loại RAM:": [
+                "LPDDR5 (Onboard)"
+            ],
+            "Tốc độ Bus RAM:": [
+                "5500 MHz"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "Không hỗ trợ nâng cấp"
+            ],
+            "Ổ cứng:": [
+                "512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "15.6\""
+            ],
+            "Độ phân giải:": [
+                "Full HD (1920 x 1080)"
+            ],
+            "Tần số quét:": [
+                "60Hz"
+            ],
+            "Độ phủ màu:": [
+                "45% NTSC"
+            ],
+            "Công nghệ màn hình:": [
+                "Tấm nền TN",
+                "Chống chói Anti Glare",
+                "250 nits"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card tích hợp - AMD Radeon Graphics"
+            ],
+            "Công nghệ âm thanh:": [
+                "SonicMaster audio"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "USB Type-C",
+                "1 x USB 2.0",
+                "Jack tai nghe 3.5 mm",
+                "1 x USB 3.2",
+                "HDMI"
+            ],
+            "Kết nối không dây:": [
+                "Wi-Fi 6E (802.11ax)",
+                "Bluetooth 5.3"
+            ],
+            "Webcam:": [
+                "HD webcam"
+            ],
+            "Tính năng khác:": [
+                "Độ bền chuẩn quân đội MIL STD 810H",
+                "Bản lề mở 180 độ",
+                "Bảo mật vân tay",
+                "Công tắc khóa camera"
+            ],
+            "Đèn bàn phím:": [
+                "Không có đèn"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 360.3 mm - Rộng 232.5 mm - Dày 17.9 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "1.63 kg"
+            ],
+            "Chất liệu:": [
+                "Vỏ nhựa"
+            ]
+        },
+        "Thông tin khác": {
+            "Thông tin Pin:": [
+                "3-cell, 42Wh"
+            ],
+            "Công suất bộ sạc:": [
+                "45 W"
+            ],
+            "Hệ điều hành:": [
+                "Windows 11 Home SL"
+            ],
+            "Thời điểm ra mắt:": [
+                "2023"
+            ]
+        }
+    },
+    "https://www.thegioididong.com/laptop/dell-inspiron-15-3520-i5-n5i5052w1": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "Intel Core i5 Alder Lake - 1235U"
+            ],
+            "Số nhân:": [
+                "10"
+            ],
+            "Số luồng:": [
+                "12"
+            ],
+            "Tốc độ CPU:": [
+                "1.3GHz"
+            ],
+            "Tốc độ tối đa:": [
+                "Turbo Boost 4.4 GHz"
+            ],
+            "Bộ nhớ đệm:": [
+                "12 MB"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "16 GB"
+            ],
+            "Loại RAM:": [
+                "DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB)"
+            ],
+            "Tốc độ Bus RAM:": [
+                "2666 MHz"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "Không hỗ trợ nâng cấp"
+            ],
+            "Ổ cứng:": [
+                "512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB (2280) / 1 TB (2230))",
+                "Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng (nâng cấp tối đa 2 TB)"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "15.6\""
+            ],
+            "Độ phân giải:": [
+                "Full HD (1920 x 1080)"
+            ],
+            "Tần số quét:": [
+                "120Hz"
+            ],
+            "Độ phủ màu:": [
+                "45% NTSC"
+            ],
+            "Công nghệ màn hình:": [
+                "Chống chói Anti Glare",
+                "LED Backlit",
+                "250 nits",
+                "WVA"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card tích hợp - Intel Iris Xe Graphics"
+            ],
+            "Công nghệ âm thanh:": [
+                "Realtek Audio"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "Jack tai nghe 3.5 mm",
+                "1 x USB 2.0",
+                "2 x USB 3.2",
+                "HDMI"
+            ],
+            "Kết nối không dây:": [
+                "Bluetooth 5.0",
+                "Wi-Fi 802.11 a/b/g/n/ac"
+            ],
+            "Khe đọc thẻ nhớ:": [
+                "SD"
+            ],
+            "Webcam:": [
+                "HD webcam"
+            ],
+            "Đèn bàn phím:": [
+                "Không có đèn"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 358.5 mm - Rộng 235.56 mm - Dày 16.96 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "1.66 kg"
+            ],
+            "Chất liệu:": [
+                "Vỏ nhựa"
+            ]
+        },
+        "Thông tin khác": {
+            "Thông tin Pin:": [
+                "3-cell, 41Wh"
+            ],
+            "Công suất bộ sạc:": [
+                "65 W"
+            ],
+            "Hệ điều hành:": [
+                "Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn"
+            ],
+            "Thời điểm ra mắt:": [
+                "2023"
+            ]
+        }
+    },
+    "https://www.thegioididong.com/laptop/lenovo-ideapad-slim-3-15iah8-i5-83er00evn": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "Intel Core i5 Alder Lake - 12450H"
+            ],
+            "Số nhân:": [
+                "8"
+            ],
+            "Số luồng:": [
+                "12"
+            ],
+            "Tốc độ CPU:": [
+                "2GHz"
+            ],
+            "Tốc độ tối đa:": [
+                "Turbo Boost 4.4 GHz"
+            ],
+            "Bộ nhớ đệm:": [
+                "12 MB"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "16 GB"
+            ],
+            "Loại RAM:": [
+                "LPDDR5 (Onboard)"
+            ],
+            "Tốc độ Bus RAM:": [
+                "4800 MHz"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "Không hỗ trợ nâng cấp"
+            ],
+            "Ổ cứng:": [
+                "512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "15.6\""
+            ],
+            "Độ phân giải:": [
+                "Full HD (1920 x 1080)"
+            ],
+            "Tần số quét:": [
+                "60Hz"
+            ],
+            "Công nghệ màn hình:": [
+                "Low Blue Light",
+                "Tấm nền IPS",
+                "Chống chói Anti Glare",
+                "Độ sáng 300 nits"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card tích hợp - Intel UHD Graphics"
+            ],
+            "Công nghệ âm thanh:": [
+                "Dolby Audio"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "Jack tai nghe 3.5 mm",
+                "2 x USB 3.2",
+                "HDMI",
+                "1x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery và DisplayPort 1.2)"
+            ],
+            "Kết nối không dây:": [
+                "Wi-Fi 6 (802.11ax)",
+                "Bluetooth 5.1"
+            ],
+            "Khe đọc thẻ nhớ:": [
+                "SD"
+            ],
+            "Webcam:": [
+                "Full HD Webcam"
+            ],
+            "Tính năng khác:": [
+                "TPM 2.0",
+                "Độ bền chuẩn quân đội MIL STD 810H",
+                "Bản lề mở 180 độ",
+                "Bảo mật vân tay",
+                "Công tắc khóa camera"
+            ],
+            "Đèn bàn phím:": [
+                "Không có đèn"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 359.3 mm - Rộng 235 mm - Dày 17.9 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "1.62 kg"
+            ],
+            "Chất liệu:": [
+                "Vỏ nhựa"
+            ]
+        },
+        "Thông tin khác": {
+            "Thông tin Pin:": [
+                "47 Wh"
+            ],
+            "Công suất bộ sạc:": [
+                "65 W"
+            ],
+            "Hệ điều hành:": [
+                "Windows 11 Home SL"
+            ],
+            "Thời điểm ra mắt:": [
+                "2023"
+            ]
+        }
+    },
+    "https://www.thegioididong.com/laptop/acer-aspire-a315-44p-r9w8-r7-nxksjsv002": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "AMD Ryzen 7 - 5700U"
+            ],
+            "Số nhân:": [
+                "8"
+            ],
+            "Số luồng:": [
+                "16"
+            ],
+            "Tốc độ CPU:": [
+                "1.8GHz"
+            ],
+            "Tốc độ tối đa:": [
+                "Turbo Boost 4.3 GHz"
+            ],
+            "Bộ nhớ đệm:": [
+                "8 MB"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "8 GB"
+            ],
+            "Loại RAM:": [
+                "DDR4 2 khe (1 khe 8 GB + 1 khe rời)"
+            ],
+            "Tốc độ Bus RAM:": [
+                "3200 MHz"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "64 GB"
+            ],
+            "Ổ cứng:": [
+                "512 GB SSD NVMe PCIe Gen 4 (Có thể tháo ra, lắp thanh khác tối đa 2 TB)",
+                "Hỗ trợ thêm 1 khe cắm SSD M.2 PCIe Gen 4 mở rộng (nâng cấp tối đa 2 TB)"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "15.6\""
+            ],
+            "Độ phân giải:": [
+                "Full HD (1920 x 1080)"
+            ],
+            "Tần số quét:": [
+                "60Hz"
+            ],
+            "Độ phủ màu:": [
+                "45% NTSC"
+            ],
+            "Công nghệ màn hình:": [
+                "Tấm nền IPS",
+                "Acer ComfyView"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card tích hợp - AMD Radeon Graphics"
+            ],
+            "Công nghệ âm thanh:": [
+                "Acer Purified Voice"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "LAN (RJ45)",
+                "Jack tai nghe 3.5 mm",
+                "3 x USB 3.2",
+                "HDMI",
+                "1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)"
+            ],
+            "Kết nối không dây:": [
+                "Wi-Fi 6 (802.11ax)",
+                "Bluetooth 5.1"
+            ],
+            "Webcam:": [
+                "HD webcam"
+            ],
+            "Đèn bàn phím:": [
+                "Không có đèn"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 362.9 mm - Rộng 241.26 mm - Dày 19.9 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "1.7 kg"
+            ],
+            "Chất liệu:": [
+                "Vỏ nhựa"
+            ]
+        },
+        "Thông tin khác": { 
+            "Thông tin Pin:": [
+                "3-cell, 50Wh"
+            ],
+            "Công suất bộ sạc:": [
+                "65 W"
+            ],
+            "Hệ điều hành:": [
+                "Windows 11 Home SL"
+            ],
+            "Thời điểm ra mắt:": [
+                "2023"
+            ]
+        }
+    },
+    "https://www.thegioididong.com/laptop/hp-15-fd0234tu-i5-9q969pa": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "Intel Core i5 Raptor Lake - 1334U"
+            ],
+            "Số nhân:": [
+                "10"
+            ],
+            "Số luồng:": [
+                "12"
+            ],
+            "Tốc độ CPU:": [
+                "1.3GHz"
+            ],
+            "Tốc độ tối đa:": [
+                "Turbo Boost 4.6 GHz"
+            ],
+            "Bộ nhớ đệm:": [
+                "12 MB"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "16 GB"
+            ],
+            "Loại RAM:": [
+                "DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB)"
+            ],
+            "Tốc độ Bus RAM:": [
+                "3200 MHz"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "32 GB"
+            ],
+            "Ổ cứng:": [
+                "512 GB SSD NVMe PCIe"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "15.6\""
+            ],
+            "Độ phân giải:": [
+                "Full HD (1920 x 1080)"
+            ],
+            "Tần số quét:": [
+                "60Hz"
+            ],
+            "Độ phủ màu:": [
+                "62.5% sRGB"
+            ],
+            "Công nghệ màn hình:": [
+                "Chống chói Anti Glare",
+                "250 nits"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card tích hợp - Intel Iris Xe Graphics"
+            ],
+            "Công nghệ âm thanh:": [
+                "Realtek High Definition Audio"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "USB Type-C",
+                "Jack tai nghe 3.5 mm",
+                "2 x USB 3.2",
+                "HDMI"
+            ],
+            "Kết nối không dây:": [
+                "Wi-Fi 6 (802.11ax)",
+                "Bluetooth 5.3"
+            ],
+            "Webcam:": [
+                "HD webcam"
+            ],
+            "Tính năng khác:": [
+                "Công tắc khóa camera"
+            ],
+            "Đèn bàn phím:": [
+                "Không có đèn"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 359.8 mm - Rộng 236 mm - Dày 18.6 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "1.59 kg"
+            ],
+            "Chất liệu:": [
+                "Vỏ nhựa"
+            ]
+        },
+        "Thông tin khác": {
+            "Thông tin Pin:": [
+                "3-cell, 41Wh"
+            ],
+            "Công suất bộ sạc:": [
+                "45 W"
+            ],
+            "Hệ điều hành:": [ 
+                "Windows 11 Home SL"
+            ],
+            "Thời điểm ra mắt:": [
+                "2023"
+            ]
+        }
+    },
+    "https://www.thegioididong.com/laptop/hp-15-fc0085au-r5-a6vv8pa": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "AMD Ryzen 5 - 7430U"
+            ],
+            "Số nhân:": [
+                "6"
+            ],
+            "Số luồng:": [
+                "12"
+            ],
+            "Tốc độ CPU:": [
+                "2.30 GHz"
+            ],
+            "Tốc độ tối đa:": [
+                "Turbo Boost 4.3 GHz"
+            ],
+            "Bộ nhớ đệm:": [
+                "16 MB"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "16 GB"
+            ],
+            "Loại RAM:": [
+                "DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB)"
+            ],
+            "Tốc độ Bus RAM:": [
+                "3200 MHz"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "16 GB"
+            ],
+            "Ổ cứng:": [
+                "512 GB SSD NVMe PCIe"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "15.6\""
+            ],
+            "Độ phân giải:": [
+                "Full HD (1920 x 1080)"
+            ],
+            "Tần số quét:": [
+                "60Hz"
+            ],
+            "Độ phủ màu:": [
+                "45% NTSC"
+            ],
+            "Công nghệ màn hình:": [
+                "Chống chói Anti Glare",
+                "250 nits"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card tích hợp - AMD Radeon Graphics"
+            ],
+            "Công nghệ âm thanh:": [
+                "Loa kép (2 kênh)"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "HDMI",
+                "2 x USB Type-A",
+                "1 x USB Type-C (chỉ hỗ trợ truyền dữ liệu)",
+                "1 x Headphone/microphone combo"
+            ],
+            "Kết nối không dây:": [
+                "Wi-Fi 6 (802.11ax)",
+                "Bluetooth 5.3"
+            ],
+            "Webcam:": [
+                "HD webcam"
+            ],
+            "Tính năng khác:": [
+                "Công tắc khóa camera"
+            ],
+            "Đèn bàn phím:": [
+                "Không có đèn"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 359.8 mm - Rộng 236 mm - Dày 18.6 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "1.59 kg"
+            ],
+            "Chất liệu:": [
+                "Vỏ nhựa"
+            ]
+        },
+        "Thông tin khác": {
+            "Thông tin Pin:": [
+                "3-cell, 41Wh"
+            ],
+            "Công suất bộ sạc:": [
+                "45 W"
+            ],
+            "Hệ điều hành:": [
+                "Windows 11 Home SL"
+            ],
+            "Thời điểm ra mắt:": [
+                "2023"
+            ]
+        }
+    },
+    "https://www.thegioididong.com/laptop/asus-vivobook-15-x1504za-i3-nj102w?utm_flashsale=1": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "Intel Core i3 Alder Lake - 1215U"
+            ],
+            "Số nhân:": [
+                "6"
+            ],
+            "Số luồng:": [
+                "8"
+            ],
+            "Tốc độ CPU:": [
+                "1.2GHz"
+            ],
+            "Tốc độ tối đa:": [
+                "Turbo Boost 4.4 GHz"
+            ],
+            "Bộ nhớ đệm:": [
+                "10 MB"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "8 GB"
+            ],
+            "Loại RAM:": [
+                "DDR4 2 khe (1 khe 8 GB onboard + 1 khe trống)"
+            ],
+            "Tốc độ Bus RAM:": [
+                "3200 MHz"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "16 GB"
+            ],
+            "Ổ cứng:": [
+                "512 GB SSD NVMe PCIe"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "15.6\""
+            ],
+            "Độ phân giải:": [
+                "Full HD (1920 x 1080)"
+            ],
+            "Tần số quét:": [
+                "60Hz"
+            ],
+            "Độ phủ màu:": [
+                "45% NTSC"
+            ],
+            "Công nghệ màn hình:": [
+                "Chống chói Anti Glare",
+                "LED Backlit"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card tích hợp - Intel UHD Graphics"
+            ],
+            "Công nghệ âm thanh:": [
+                "SonicMaster audio"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "USB Type-C",
+                "1 x USB 2.0",
+                "Jack tai nghe 3.5 mm",
+                "2 x USB 3.2",
+                "HDMI"
+            ],
+            "Kết nối không dây:": [
+                "Wi-Fi 6E (802.11ax)",
+                "Bluetooth 5.3"
+            ],
+            "Webcam:": [
+                "HD webcam"
+            ],
+            "Tính năng khác:": [
+                "Độ bền chuẩn quân đội MIL STD 810H",
+                "Bản lề mở 180 độ",
+                "Bảo mật vân tay",
+                "Công tắc khóa camera"
+            ],
+            "Đèn bàn phím:": [
+                "Không có đèn"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 359.7 mm - Rộng 232.5 mm - Dày 17.9 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "1.7 kg"
+            ],
+            "Chất liệu:": [
+                "Vỏ nhựa"
+            ]
+        },
+        "Thông tin khác": {
+            "Thông tin Pin:": [
+                "3-cell, 42Wh"
+            ],
+            "Công suất bộ sạc:": [
+                "45 W"
+            ],
+            "Hệ điều hành:": [
+                "Windows 11 Home SL"
+            ],
+            "Thời điểm ra mắt:": [
+                "2023"
+            ]
+        }
+    },
+    "https://www.thegioididong.com/laptop/apple-macbook-air-2020-mgn63saa": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "Apple M1"
+            ],
+            "Số nhân:": [
+                "8"
+            ],
+            "Số luồng:": [
+                "Hãng không công bố"
+            ],
+            "Tốc độ CPU:": [
+                "Hãng không công bố"
+            ],
+            "Tốc độ tối đa:": [
+                "Hãng không công bố"
+            ],
+            "Bộ nhớ đệm:": [
+                "Hãng không công bố"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "8 GB"
+            ],
+            "Loại RAM:": [
+                "Hãng không công bố"
+            ],
+            "Tốc độ Bus RAM:": [
+                "Hãng không công bố"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "Không hỗ trợ nâng cấp"
+            ],
+            "Ổ cứng:": [
+                "256 GB SSD"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "13.3\""
+            ],
+            "Độ phân giải:": [
+                "Retina (2560 x 1600)"
+            ],
+            "Tần số quét:": [
+                "Hãng không công bố"
+            ],
+            "Công nghệ màn hình:": [
+                "Tấm nền IPS",
+                "LED Backlit",
+                "400 nits",
+                "True Tone Technology"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card tích hợp - 7 nhân GPU"
+            ],
+            "Công nghệ âm thanh:": [
+                "3 microphones",
+                "Headphones",
+                "Loa kép (2 kênh)"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "Jack tai nghe 3.5 mm",
+                "2 x Thunderbolt 3 (USB-C)"
+            ],
+            "Kết nối không dây:": [
+                "Bluetooth 5.0",
+                "Wi-Fi 6 (802.11ax)"
+            ],
+            "Webcam:": [
+                "720p FaceTime Camera"
+            ],
+            "Tính năng khác:": [
+                "Bảo mật vân tay"
+            ],
+            "Đèn bàn phím:": [
+                "Đơn sắc - Màu trắng"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 304.1 mm - Rộng 212.4 mm - Dày 4.1 mm đến 16.1 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "1.29 kg"
+            ],
+            "Chất liệu:": [
+                "Vỏ kim loại nguyên khối"
+            ]
+        },
+        "Thông tin khác": {
+            "Thông tin Pin:": [
+                "Lên đến 18 giờ"
+            ],
+            "Hệ điều hành:": [
+                "macOS"
+            ],
+            "Thời điểm ra mắt:": [
+                "2020"
+            ]
+        }
+    },
+    "https://www.thegioididong.com/laptop/acer-aspire-lite-14-51m-59bn-i5-nxktxsv001": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "Intel Core i5 Alder Lake - 1235U"
+            ],
+            "Số nhân:": [
+                "10"
+            ],
+            "Số luồng:": [
+                "12"
+            ],
+            "Tốc độ CPU:": [
+                "1.3GHz"
+            ],
+            "Tốc độ tối đa:": [
+                "Turbo Boost 4.4 GHz"
+            ],
+            "Bộ nhớ đệm:": [
+                "12 MB"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "16 GB"
+            ],
+            "Loại RAM:": [
+                "DDR5 2 khe (1 khe 16 GB + 1 khe rời)"
+            ],
+            "Tốc độ Bus RAM:": [
+                "4800 MHz"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "64 GB"
+            ],
+            "Ổ cứng:": [
+                "512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 2 TB)"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "14\""
+            ],
+            "Độ phân giải:": [
+                "Full HD+ (1920 x 1200)"
+            ],
+            "Tần số quét:": [
+                "60Hz"
+            ],
+            "Độ phủ màu:": [
+                "45% NTSC"
+            ],
+            "Công nghệ màn hình:": [
+                "TFT",
+                "LED Backlit",
+                "Acer ComfyView",
+                "Độ sáng 300 nits"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card tích hợp - Intel UHD Graphics (Iris Xe Graphics chỉ hoạt động với RAM kênh đôi)"
+            ],
+            "Công nghệ âm thanh:": [
+                "Stereo speakers"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "Jack tai nghe 3.5 mm",
+                "HDMI",
+                "3 x USB 3.1",
+                "1 x USB Type-C (hỗ trợ USB, Power Delivery và DisplayPort)"
+            ],
+            "Kết nối không dây:": [
+                "Wi-Fi 6 (802.11ax)",
+                "Bluetooth 5.1"
+            ],
+            "Khe đọc thẻ nhớ:": [
+                "Micro SD"
+            ],
+            "Webcam:": [
+                "Full HD Webcam"
+            ],
+            "Đèn bàn phím:": [
+                "Không có đèn"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 313.3 mm - Rộng 218 mm - Dày 16.9 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "1.5 kg"
+            ],
+            "Chất liệu:": [
+                "Vỏ nhựa - nắp lưng bằng kim loại"
+            ]
+        },
+        "Thông tin khác": {
+            "Thông tin Pin:": [
+                "3-cell Li-ion, 58 Wh"
+            ],
+            "Công suất bộ sạc:": [
+                "65 W"
+            ],
+            "Hệ điều hành:": [
+                "Windows 11 Home SL"
+            ],
+            "Thời điểm ra mắt:": [
+                "2024"
+            ]
+        }
+    },
+    "https://www.thegioididong.com/laptop/lenovo-ideapad-1-15alc7-r7-82r400c1vn": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "AMD Ryzen 7 - 5700U"
+            ],
+            "Số nhân:": [
+                "8"
+            ],
+            "Số luồng:": [
+                "16"
+            ],
+            "Tốc độ CPU:": [
+                "1.8GHz"
+            ],
+            "Tốc độ tối đa:": [
+                "Turbo Boost 4.3 GHz"
+            ],
+            "Bộ nhớ đệm:": [
+                "8 MB"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "16 GB"
+            ],
+            "Loại RAM:": [
+                "DDR4 2 khe (8 GB onboard + 1 khe 8 GB)"
+            ],
+            "Tốc độ Bus RAM:": [
+                "3200 MHz"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "16 GB"
+            ],
+            "Ổ cứng:": [
+                "512 GB SSD NVMe PCIe Gen 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2280) / 512 GB (2242))"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "15.6\""
+            ],
+            "Độ phân giải:": [
+                "Full HD (1920 x 1080)"
+            ],
+            "Tần số quét:": [
+                "60Hz"
+            ],
+            "Công nghệ màn hình:": [
+                "Tấm nền IPS",
+                "Chống chói Anti Glare",
+                "250 nits"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card tích hợp - AMD Radeon Graphics"
+            ],
+            "Công nghệ âm thanh:": [
+                "Dolby Audio"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "Jack tai nghe 3.5 mm",
+                "1 x USB 2.0",
+                "1 x USB 3.2",
+                "HDMI",
+                "1 x USB Type-C (chỉ hỗ trợ truyền dữ liệu)"
+            ],
+            "Kết nối không dây:": [
+                "Bluetooth 5.0",
+                "Wi-Fi 802.11 a/b/g/n/ac"
+            ],
+            "Khe đọc thẻ nhớ:": [
+                "SD"
+            ],
+            "Webcam:": [
+                "HD webcam"
+            ],
+            "Tính năng khác:": [
+                "TPM 2.0",
+                "Bản lề mở 180 độ",
+                "Công tắc khóa camera"
+            ],
+            "Đèn bàn phím:": [
+                "Không có đèn"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 360.2 mm - Rộng 236 mm - Dày 17.9 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "1.61 kg"
+            ],
+            "Chất liệu:": [
+                "Vỏ nhựa"
+            ]
+        },
+        "Thông tin khác": {
+            "Thông tin Pin:": [
+                "42 Wh"
+            ],
+            "Công suất bộ sạc:": [
+                "65 W"
+            ],
+            "Hệ điều hành:": [
+                "Windows 11 Home SL"
+            ],
+            "Thời điểm ra mắt:": [
+                "2023"
+            ]
+        }
+    },
+    "https://www.thegioididong.com/laptop/hp-15-fd0303tu-i3-a2nl4pa": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "Intel Core i3 Raptor Lake - 1315U"
+            ],
+            "Số nhân:": [
+                "6"
+            ],
+            "Số luồng:": [
+                "8"
+            ],
+            "Tốc độ CPU:": [
+                "Hãng không công bố"
+            ],
+            "Tốc độ tối đa:": [
+                "Turbo Boost 4.5 GHz"
+            ],
+            "Bộ nhớ đệm:": [
+                "10 MB"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "8 GB"
+            ],
+            "Loại RAM:": [
+                "DDR4 2 khe (1 khe 8 GB + 1 khe rời)"
+            ],
+            "Tốc độ Bus RAM:": [
+                "3200 MHz"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "16 GB"
+            ],
+            "Ổ cứng:": [
+                "512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "15.6\""
+            ],
+            "Độ phân giải:": [
+                "Full HD (1920 x 1080)"
+            ],
+            "Tần số quét:": [
+                "60Hz"
+            ],
+            "Độ phủ màu:": [
+                "62.5% sRGB"
+            ],
+            "Công nghệ màn hình:": [
+                "Chống chói Anti Glare",
+                "250 nits"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card tích hợp - Intel UHD Graphics"
+            ],
+            "Công nghệ âm thanh:": [
+                "Loa kép (2 kênh)"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "HDMI",
+                "2 x USB Type-A",
+                "1 x USB Type-C (chỉ hỗ trợ truyền dữ liệu)",
+                "1 x Headphone/microphone combo"
+            ],
+            "Kết nối không dây:": [
+                "Wi-Fi 6 (802.11ax)",
+                "Bluetooth 5.3"
+            ],
+            "Webcam:": [
+                "HD webcam"
+            ],
+            "Tính năng khác:": [
+                "Công tắc khóa camera"
+            ],
+            "Đèn bàn phím:": [
+                "Không có đèn"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 359.8 mm - Rộng 236 mm - Dày 18.6 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "1.59 kg"
+            ],
+            "Chất liệu:": [
+                "Vỏ nhựa"
+            ]
+        },
+        "Thông tin khác": {
+            "Thông tin Pin:": [
+                "3-cell, 41Wh"
+            ],
+            "Công suất bộ sạc:": [
+                "45 W"
+            ],
+            "Hệ điều hành:": [
+                "Windows 11 Home SL"
+            ],
+            "Thời điểm ra mắt:": [
+                "2024"
+            ]
+        }
+    },
+    "https://www.thegioididong.com/laptop/asus-vivobook-x1404za-i5-nk376w?utm_flashsale=1": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "Intel Core i5 Alder Lake - 1235U"
+            ],
+            "Số nhân:": [
+                "10"
+            ],
+            "Số luồng:": [
+                "12"
+            ],
+            "Tốc độ CPU:": [
+                "1.3GHz"
+            ],
+            "Tốc độ tối đa:": [
+                "Turbo Boost 4.4 GHz"
+            ],
+            "Bộ nhớ đệm:": [
+                "12 MB"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "16 GB"
+            ],
+            "Loại RAM:": [
+                "DDR4 2 khe (8 GB onboard + 1 khe 8 GB)"
+            ],
+            "Tốc độ Bus RAM:": [
+                "3200 MHz"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "16 GB"
+            ],
+            "Ổ cứng:": [
+                "512 GB SSD NVMe PCIe"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "14\""
+            ],
+            "Độ phân giải:": [
+                "Full HD (1920 x 1080)"
+            ],
+            "Tần số quét:": [
+                "60Hz"
+            ],
+            "Độ phủ màu:": [
+                "45% NTSC"
+            ],
+            "Công nghệ màn hình:": [
+                "Chống chói Anti Glare",
+                "LED Backlit",
+                "250 nits"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card tích hợp - Intel Iris Xe Graphics"
+            ],
+            "Công nghệ âm thanh:": [
+                "SonicMaster audio"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "USB Type-C",
+                "1 x USB 2.0",
+                "Jack tai nghe 3.5 mm",
+                "2 x USB 3.2",
+                "HDMI"
+            ],
+            "Kết nối không dây:": [
+                "Wi-Fi 6E (802.11ax)",
+                "Bluetooth 5.3"
+            ],
+            "Webcam:": [
+                "HD webcam"
+            ],
+            "Tính năng khác:": [
+                "Độ bền chuẩn quân đội MIL STD 810H",
+                "Bản lề mở 180 độ",
+                "Bảo mật vân tay",
+                "Công tắc khóa camera"
+            ],
+            "Đèn bàn phím:": [
+                "Không có đèn"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 324.9 mm - Rộng 213.9 mm - Dày 17.9 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "1.4 kg"
+            ],
+            "Chất liệu:": [
+                "Vỏ nhựa"
+            ]
+        },
+        "Thông tin khác": {
+            "Thông tin Pin:": [
+                "3-cell, 42Wh"
+            ],
+            "Công suất bộ sạc:": [
+                "45 W"
+            ],
+            "Hệ điều hành:": [
+                "Windows 11 Home SL"
+            ],
+            "Thời điểm ra mắt:": [
+                "2024"
+            ]
+        }
+    },
+    "https://www.thegioididong.com/laptop/lenovo-ideapad-slim-3-15amn8-r5-82xq00j0vn": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "AMD Ryzen 5 - 7520U"
+            ],
+            "Số nhân:": [
+                "4"
+            ],
+            "Số luồng:": [
+                "8"
+            ],
+            "Tốc độ CPU:": [
+                "2.8GHz"
+            ],
+            "Tốc độ tối đa:": [
+                "Turbo Boost 4.3 GHz"
+            ],
+            "Bộ nhớ đệm:": [
+                "4 MB"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "16 GB"
+            ],
+            "Loại RAM:": [
+                "LPDDR5 (Onboard)"
+            ],
+            "Tốc độ Bus RAM:": [
+                "5500 MHz"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "Không hỗ trợ nâng cấp"
+            ],
+            "Ổ cứng:": [
+                "512 GB SSD NVMe PCIe Gen 4.0"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "15.6\""
+            ],
+            "Độ phân giải:": [
+                "Full HD (1920 x 1080)"
+            ],
+            "Tần số quét:": [
+                "60Hz"
+            ],
+            "Công nghệ màn hình:": [
+                "Tấm nền IPS",
+                "Chống chói Anti Glare",
+                "Độ sáng 300 nits"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card tích hợp - AMD Radeon 610M Graphics"
+            ],
+            "Công nghệ âm thanh:": [
+                "Dolby Audio"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "Jack tai nghe 3.5 mm",
+                "2 x USB 3.2",
+                "HDMI",
+                "1x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery và DisplayPort 1.2)"
+            ],
+            "Kết nối không dây:": [
+                "Bluetooth 5.2",
+                "Wi-Fi 6 (802.11ax)"
+            ],
+            "Khe đọc thẻ nhớ:": [
+                "SD"
+            ],
+            "Webcam:": [
+                "HD webcam"
+            ],
+            "Tính năng khác:": [
+                "TPM 2.0",
+                "Độ bền chuẩn quân đội MIL STD 810H",
+                "Bản lề mở 180 độ",
+                "Bảo mật vân tay",
+                "Công tắc khóa camera"
+            ],
+            "Đèn bàn phím:": [
+                "Không có đèn"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 359.3 mm - Rộng 235 mm - Dày 17.9 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "1.62 kg"
+            ],
+            "Chất liệu:": [
+                "Vỏ nhựa"
+            ]
+        },
+        "Thông tin khác": {
+            "Thông tin Pin:": [
+                "47 Wh"
+            ],
+            "Công suất bộ sạc:": [
+                "65 W"
+            ],
+            "Hệ điều hành:": [
+                "Windows 11 Home SL"
+            ],
+            "Thời điểm ra mắt:": [
+                "2024"
+            ]
+        }
+    },
+    "https://www.thegioididong.com/laptop/acer-aspire-3-a314-42p-r3b3-r7-nxksfsv001": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "AMD Ryzen 7 - 5700U"
+            ],
+            "Số nhân:": [
+                "8"
+            ],
+            "Số luồng:": [
+                "16"
+            ],
+            "Tốc độ CPU:": [
+                "1.8GHz"
+            ],
+            "Tốc độ tối đa:": [
+                "Turbo Boost 4.3 GHz"
+            ],
+            "Bộ nhớ đệm:": [
+                "8 MB"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "16 GB"
+            ],
+            "Loại RAM:": [
+                "LPDDR4X (Onboard)"
+            ],
+            "Tốc độ Bus RAM:": [
+                "4266 MHz"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "Không hỗ trợ nâng cấp"
+            ],
+            "Ổ cứng:": [
+                "512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "14\""
+            ],
+            "Độ phân giải:": [
+                "WUXGA"
+            ],
+            "Tần số quét:": [
+                "60Hz"
+            ],
+            "Độ phủ màu:": [
+                "45% NTSC"
+            ],
+            "Công nghệ màn hình:": [
+                "Tấm nền IPS",
+                "LED Backlit",
+                "Acer ComfyView"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card tích hợp - AMD Radeon Graphics"
+            ],
+            "Công nghệ âm thanh:": [
+                "Acer Purified Voice"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "Jack tai nghe 3.5 mm",
+                "2 x USB 3.2",
+                "HDMI",
+                "1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)"
+            ],
+            "Kết nối không dây:": [
+                "Wi-Fi 6 (802.11ax)",
+                "Bluetooth 5.1"
+            ],
+            "Webcam:": [
+                "HD webcam"
+            ],
+            "Đèn bàn phím:": [
+                "Không có đèn"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 318.2 mm - Rộng 225.5 mm - Dày 17.8 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "1.4 kg"
+            ],
+            "Chất liệu:": [
+                "Vỏ nhựa"
+            ]
+        },
+        "Thông tin khác": {
+            "Thông tin Pin:": [
+                "3-cell, 50Wh"
+            ],
+            "Hệ điều hành:": [
+                "Windows 11 Home SL"
+            ],
+            "Thời điểm ra mắt:": [
+                "2024"
+            ]
+        }
+    },
+    "https://www.thegioididong.com/laptop/dell-inspiron-15-3520-i5-25p231": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "Intel Core i5 Alder Lake - 1235U"
+            ],
+            "Số nhân:": [
+                "10"
+            ],
+            "Số luồng:": [
+                "12"
+            ],
+            "Tốc độ CPU:": [
+                "1.3GHz"
+            ],
+            "Tốc độ tối đa:": [
+                "Turbo Boost 4.4 GHz"
+            ],
+            "Bộ nhớ đệm:": [
+                "12 MB"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "16 GB"
+            ],
+            "Loại RAM:": [
+                "DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB)"
+            ],
+            "Tốc độ Bus RAM:": [
+                "2666 MHz"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "16 GB"
+            ],
+            "Ổ cứng:": [
+                "512 GB SSD NVMe PCIe",
+                "Hỗ trợ khe cắm HDD SATA (nâng cấp tối đa 2 TB)"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "15.6\""
+            ],
+            "Độ phân giải:": [
+                "Full HD (1920 x 1080)"
+            ],
+            "Tần số quét:": [
+                "120Hz"
+            ],
+            "Công nghệ màn hình:": [
+                "Chống chói Anti Glare",
+                "250 nits",
+                "WVA"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card tích hợp - Intel Iris Xe Graphics"
+            ],
+            "Công nghệ âm thanh:": [
+                "Realtek Audio"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "Jack tai nghe 3.5 mm",
+                "1 x USB 2.0",
+                "2 x USB 3.2",
+                "HDMI"
+            ],
+            "Kết nối không dây:": [
+                "Bluetooth 5.2",
+                "Wi-Fi 802.11 a/b/g/n/ac"
+            ],
+            "Khe đọc thẻ nhớ:": [
+                "SD"
+            ],
+            "Webcam:": [
+                "HD webcam"
+            ],
+            "Đèn bàn phím:": [
+                "Không có đèn"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 358.5 mm - Rộng 235.56 mm - Dày 18.99 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "1.9 kg"
+            ],
+            "Chất liệu:": [
+                "Vỏ nhựa"
+            ]
+        },
+        "Thông tin khác": {
+            "Thông tin Pin:": [
+                "3-cell, 41Wh"
+            ],
+            "Công suất bộ sạc:": [
+                "65 W"
+            ],
+            "Hệ điều hành:": [
+                "Windows 11 Home SL + Office Home & Student 2021 vĩnh viễn"
+            ],
+            "Thời điểm ra mắt:": [
+                "2022"
+            ]
+        }
+    },
+    "https://www.thegioididong.com/laptop/asus-asus-vivobook-15-oled-a1505za-i5-ma415w?utm_flashsale=1": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "Intel Core i5 Alder Lake - 12500H"
+            ],
+            "Số nhân:": [
+                "12"
+            ],
+            "Số luồng:": [
+                "16"
+            ],
+            "Tốc độ CPU:": [
+                "2.5GHz"
+            ],
+            "Tốc độ tối đa:": [
+                "Turbo Boost 4.5 GHz"
+            ],
+            "Bộ nhớ đệm:": [
+                "18 MB"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "16 GB"
+            ],
+            "Loại RAM:": [
+                "DDR4 2 khe (8 GB onboard + 1 khe 8 GB)"
+            ],
+            "Tốc độ Bus RAM:": [
+                "3200 MHz"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "24 GB"
+            ],
+            "Ổ cứng:": [
+                "512 GB SSD NVMe PCIe"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "15.6\""
+            ],
+            "Độ phân giải:": [
+                "2.8K (2880 x 1620) - OLED"
+            ],
+            "Tần số quét:": [
+                "120Hz"
+            ],
+            "Độ phủ màu:": [
+                "100% DCI-P3"
+            ],
+            "Công nghệ màn hình:": [
+                "Thời gian phản hồi 0.2 ms",
+                "Màn hình bảo vệ mắt - EYE CARE",
+                "Chuẩn DisplayHDR True Black 600",
+                "Low Blue Light",
+                "Màn hình OLED",
+                "600 nits (Khi bật HDR)",
+                "1.07 tỷ màu"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card tích hợp - Intel Iris Xe Graphics"
+            ],
+            "Công nghệ âm thanh:": [
+                "Built-in speaker",
+                "SonicMaster audio"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "USB Type-C",
+                "1 x USB 2.0",
+                "Jack tai nghe 3.5 mm",
+                "2 x USB 3.2",
+                "HDMI"
+            ],
+            "Kết nối không dây:": [
+                "Wi-Fi 6 (802.11ax)",
+                "Bluetooth 5.3"
+            ],
+            "Webcam:": [
+                "HD webcam"
+            ],
+            "Tính năng khác:": [
+                "Lớp phủ ASUS Antimicrobial Guard",
+                "Độ bền chuẩn quân đội MIL STD 810H",
+                "Bản lề mở 180 độ",
+                "Bảo mật vân tay",
+                "Công tắc khóa camera"
+            ],
+            "Đèn bàn phím:": [
+                "Không có đèn"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 356.8 mm - Rộng 227.6 mm - Dày 19.9 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "1.7 kg"
+            ],
+            "Chất liệu:": [
+                "Vỏ nhựa"
+            ]
+        },
+        "Thông tin khác": {
+            "Thông tin Pin:": [
+                "3-cell, 50Wh"
+            ],
+            "Công suất bộ sạc:": [
+                "65 W"
+            ],
+            "Hệ điều hành:": [
+                "Windows 11 Home SL"
+            ],
+            "Thời điểm ra mắt:": [
+                "2024"
+            ]
+        }
+    },
+    "https://www.thegioididong.com/laptop/acer-aspire-3-a315-58-529v-i5-nxaddsv00n?utm_flashsale=1": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "Intel Core i5 Tiger Lake - 1135G7"
+            ],
+            "Số nhân:": [
+                "4"
+            ],
+            "Số luồng:": [
+                "8"
+            ],
+            "Tốc độ CPU:": [
+                "2.4GHz"
+            ],
+            "Tốc độ tối đa:": [
+                "Turbo Boost 4.2 GHz"
+            ],
+            "Bộ nhớ đệm:": [
+                "8 MB"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "8 GB"
+            ],
+            "Loại RAM:": [
+                "DDR4 (Onboard 4 GB + 1 khe 4 GB)"
+            ],
+            "Tốc độ Bus RAM:": [
+                "Từ 2400 MHz (Hãng công bố)"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "12 GB"
+            ],
+            "Ổ cứng:": [
+                "256 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)",
+                "Hỗ trợ khe cắm HDD SATA (nâng cấp tối đa 2 TB)"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "15.6\""
+            ],
+            "Độ phân giải:": [
+                "Full HD (1920 x 1080)"
+            ],
+            "Tần số quét:": [
+                "60Hz"
+            ],
+            "Độ phủ màu:": [
+                "45% NTSC"
+            ],
+            "Công nghệ màn hình:": [
+                "220 nits",
+                "LED Backlit",
+                "Acer ComfyView"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card tích hợp - Intel Iris Xe Graphics"
+            ],
+            "Công nghệ âm thanh:": [
+                "Stereo speakers"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "LAN (RJ45)",
+                "1 x USB 2.0",
+                "Jack tai nghe 3.5 mm",
+                "2 x USB 3.2",
+                "HDMI"
+            ],
+            "Kết nối không dây:": [
+                "Wi-Fi 802.11 a/b/g/n/ac"
+            ],
+            "Webcam:": [
+                "HD webcam"
+            ],
+            "Đèn bàn phím:": [
+                "Không có đèn"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 363.4 mm - Rộng 238.4 mm - Dày 19.9 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "1.7 kg"
+            ],
+            "Chất liệu:": [
+                "Vỏ nhựa"
+            ]
+        },
+        "Thông tin khác": {
+            "Thông tin Pin:": [
+                "2-cell, 36.7Wh"
+            ],
+            "Công suất bộ sạc:": [
+                "45 W"
+            ],
+            "Hệ điều hành:": [
+                "Windows 11 Home SL"
+            ],
+            "Thời điểm ra mắt:": [
+                "2022"
+            ]
+        }
+    },
+    "https://www.thegioididong.com/laptop/hp-240-g9-i5-ag2j7at": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "Intel Core i5 Alder Lake - 1235U"
+            ],
+            "Số nhân:": [
+                "10"
+            ],
+            "Số luồng:": [
+                "12"
+            ],
+            "Tốc độ CPU:": [
+                "1.3GHz"
+            ],
+            "Tốc độ tối đa:": [
+                "Turbo Boost 4.4 GHz"
+            ],
+            "Bộ nhớ đệm:": [
+                "12 MB"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "16 GB"
+            ],
+            "Loại RAM:": [
+                "DDR4 2 khe (1 khe 16 GB + 1 khe rời)"
+            ],
+            "Tốc độ Bus RAM:": [
+                "3200 MHz"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "32 GB"
+            ],
+            "Ổ cứng:": [
+                "512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "14\""
+            ],
+            "Độ phân giải:": [
+                "Full HD (1920 x 1080)"
+            ],
+            "Tần số quét:": [
+                "60Hz"
+            ],
+            "Độ phủ màu:": [
+                "45% NTSC"
+            ],
+            "Công nghệ màn hình:": [
+                "Tấm nền IPS",
+                "Chống chói Anti Glare",
+                "250 nits"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card tích hợp - Intel UHD Graphics (Iris Xe Graphics chỉ hoạt động với RAM kênh đôi)"
+            ],
+            "Công nghệ âm thanh:": [
+                "Realtek High Definition Audio"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "USB Type-C",
+                "2 x USB 3.2",
+                "HDMI",
+                "1 x Headphone/microphone combo",
+                "LAN (RJ45)"
+            ],
+            "Kết nối không dây:": [
+                "Wi-Fi 6 (802.11ax)",
+                "Bluetooth 5.3"
+            ],
+            "Webcam:": [
+                "HD webcam"
+            ],
+            "Đèn bàn phím:": [
+                "Không có đèn"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 324 mm - Rộng 225.9 mm - Dày 19.9 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "1.47 kg"
+            ],
+            "Chất liệu:": [
+                "Vỏ nhựa"
+            ]
+        },
+        "Thông tin khác": {
+            "Thông tin Pin:": [
+                "3-cell, 41Wh"
+            ],
+            "Công suất bộ sạc:": [
+                "45 W"
+            ],
+            "Hệ điều hành:": [
+                "Windows 11 Home SL"
+            ],
+            "Thời điểm ra mắt:": [
+                "2024"
+            ]
+        }
+    },
+    "https://www.thegioididong.com/laptop/lenovo-ideapad-5-14iah8-i5-83bf003wvn": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "Intel Core i5 Alder Lake - 12450H"
+            ],
+            "Số nhân:": [
+                "8"
+            ],
+            "Số luồng:": [
+                "12"
+            ],
+            "Tốc độ CPU:": [
+                "2GHz"
+            ],
+            "Tốc độ tối đa:": [
+                "Turbo Boost 4.4 GHz"
+            ],
+            "Bộ nhớ đệm:": [
+                "12 MB"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "16 GB"
+            ],
+            "Loại RAM:": [
+                "LPDDR5 (Onboard)"
+            ],
+            "Tốc độ Bus RAM:": [
+                "4800 MHz"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "Không hỗ trợ nâng cấp"
+            ],
+            "Ổ cứng:": [
+                "1 TB SSD NVMe PCIe Gen 4"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "14\""
+            ],
+            "Độ phân giải:": [
+                "WUXGA"
+            ],
+            "Tần số quét:": [
+                "60Hz"
+            ],
+            "Độ phủ màu:": [
+                "45% NTSC"
+            ],
+            "Công nghệ màn hình:": [
+                "Low Blue Light",
+                "Tấm nền IPS",
+                "Chống chói Anti Glare",
+                "Độ sáng 300 nits"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card tích hợp - Intel UHD Graphics"
+            ],
+            "Công nghệ âm thanh:": [
+                "Dolby Audio"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "Jack tai nghe 3.5 mm",
+                "1 x USB 3.2",
+                "HDMI",
+                "1 x USB 3.2 (Always on)",
+                "2 x USB Type-C (hỗ trợ truyền dữ liệu, Power Delivery 3.0 và DisplayPort 1.4)"
+            ],
+            "Kết nối không dây:": [
+                "Bluetooth 5.2",
+                "Wi-Fi 6 (802.11ax)"
+            ],
+            "Khe đọc thẻ nhớ:": [
+                "Micro SD"
+            ],
+            "Webcam:": [
+                "Full HD Webcam"
+            ],
+            "Tính năng khác:": [
+                "TPM 2.0",
+                "Độ bền chuẩn quân đội MIL STD 810H",
+                "Công tắc khóa camera"
+            ],
+            "Đèn bàn phím:": [
+                "Đơn sắc - Màu trắng"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 312 mm - Rộng 221 mm - Dày 17.9 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "1.46 kg"
+            ],
+            "Chất liệu:": [
+                "Vỏ nhựa - nắp lưng bằng kim loại"
+            ]
+        },
+        "Thông tin khác": {
+            "Thông tin Pin:": [
+                "56.6Wh"
+            ],
+            "Công suất bộ sạc:": [
+                "65 W"
+            ],
+            "Hệ điều hành:": [
+                "Windows 11 Home SL"
+            ],
+            "Thời điểm ra mắt:": [
+                "2023"
+            ]
+        }
+    },
+    "https://www.thegioididong.com/laptop/asus-vivobook-x1404za-i3-nk246w?utm_flashsale=1": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "Intel Core i3 Alder Lake - 1215U"
+            ],
+            "Số nhân:": [
+                "6"
+            ],
+            "Số luồng:": [
+                "8"
+            ],
+            "Tốc độ CPU:": [
+                "1.2GHz"
+            ],
+            "Tốc độ tối đa:": [
+                "Turbo Boost 4.4 GHz"
+            ],
+            "Bộ nhớ đệm:": [
+                "10 MB"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "8 GB"
+            ],
+            "Loại RAM:": [
+                "DDR4 2 khe (1 khe 8 GB onboard + 1 khe trống)"
+            ],
+            "Tốc độ Bus RAM:": [
+                "2933 MHz"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "16 GB"
+            ],
+            "Ổ cứng:": [
+                "512 GB SSD NVMe PCIe"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "14\""
+            ],
+            "Độ phân giải:": [
+                "Full HD (1920 x 1080)"
+            ],
+            "Tần số quét:": [
+                "60Hz"
+            ],
+            "Độ phủ màu:": [
+                "45% NTSC"
+            ],
+            "Công nghệ màn hình:": [
+                "Chống chói Anti Glare",
+                "LED Backlit",
+                "250 nits"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card tích hợp - Intel UHD Graphics"
+            ],
+            "Công nghệ âm thanh:": [
+                "SonicMaster audio"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "USB Type-C",
+                "1 x USB 2.0",
+                "Jack tai nghe 3.5 mm",
+                "2 x USB 3.2",
+                "HDMI"
+            ],
+            "Kết nối không dây:": [
+                "Wi-Fi 6E (802.11ax)",
+                "Bluetooth 5.3"
+            ],
+            "Webcam:": [
+                "HD webcam"
+            ],
+            "Tính năng khác:": [
+                "Độ bền chuẩn quân đội MIL STD 810H",
+                "Bản lề mở 180 độ",
+                "Bảo mật vân tay",
+                "Công tắc khóa camera"
+            ],
+            "Đèn bàn phím:": [
+                "Không có đèn"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 324.9 mm - Rộng 213.9 mm - Dày 17.9 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "1.4 kg"
+            ],
+            "Chất liệu:": [
+                "Vỏ nhựa"
+            ]
+        },
+        "Thông tin khác": {
+            "Thông tin Pin:": [
+                "3-cell, 42Wh"
+            ],
+            "Công suất bộ sạc:": [
+                "45 W"
+            ],
+            "Hệ điều hành:": [
+                "Windows 11 Home SL"
+            ],
+            "Thời điểm ra mắt:": [
+                "2023"
+            ]
+        }
+    },
+    "https://www.thegioididong.com/laptop/hp-245-g10-r5-a20tdpt": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "AMD Ryzen 5 - 7530U"
+            ],
+            "Số nhân:": [
+                "6"
+            ],
+            "Số luồng:": [
+                "12"
+            ],
+            "Tốc độ CPU:": [
+                "2GHz"
+            ],
+            "Tốc độ tối đa:": [
+                "Turbo Boost 4.5 GHz"
+            ],
+            "Bộ nhớ đệm:": [
+                "16 MB"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "8 GB"
+            ],
+            "Loại RAM:": [
+                "DDR4 2 khe (1 khe 8 GB onboard + 1 khe trống)"
+            ],
+            "Tốc độ Bus RAM:": [
+                "3200 MHz"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "16 GB"
+            ],
+            "Ổ cứng:": [
+                "512 GB SSD NVMe PCIe"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "14\""
+            ],
+            "Độ phân giải:": [
+                "Full HD (1920 x 1080)"
+            ],
+            "Tần số quét:": [
+                "60Hz"
+            ],
+            "Độ phủ màu:": [
+                "45% NTSC"
+            ],
+            "Công nghệ màn hình:": [
+                "Tấm nền IPS",
+                "Chống chói Anti Glare",
+                "250 nits"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card tích hợp - AMD Radeon Graphics"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "USB Type-C",
+                "2 x USB 3.2",
+                "HDMI",
+                "1 x Headphone/microphone combo"
+            ],
+            "Kết nối không dây:": [
+                "Wi-Fi 6 (802.11ax)",
+                "Bluetooth 5.3"
+            ],
+            "Webcam:": [
+                "HD webcam"
+            ],
+            "Đèn bàn phím:": [
+                "Không có đèn"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 324 mm - Rộng 215 mm - Dày 17.9 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "1.36 kg"
+            ],
+            "Chất liệu:": [
+                "Vỏ nhựa"
+            ]
+        },
+        "Thông tin khác": {
+            "Thông tin Pin:": [
+                "3-cell, 41Wh"
+            ],
+            "Công suất bộ sạc:": [
+                "45 W"
+            ],
+            "Hệ điều hành:": [
+                "Windows 11 Home SL"
+            ],
+            "Thời điểm ra mắt:": [
+                "2024"
+            ]
+        }
+    },
+    "https://www.thegioididong.com/laptop/acer-aspire-lite-14-51m-36mh-i3-nxktvsv001": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "Intel Core i3 Alder Lake - 1215U"
+            ],
+            "Số nhân:": [
+                "6"
+            ],
+            "Số luồng:": [
+                "8"
+            ],
+            "Tốc độ CPU:": [
+                "1.2GHz"
+            ],
+            "Tốc độ tối đa:": [
+                "Turbo Boost 4.4 GHz"
+            ],
+            "Bộ nhớ đệm:": [
+                "10 MB"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "8 GB"
+            ],
+            "Loại RAM:": [
+                "DDR5 2 khe (1 khe 8 GB + 1 khe trống)"
+            ],
+            "Tốc độ Bus RAM:": [
+                "4800 MHz"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "16 GB"
+            ],
+            "Ổ cứng:": [
+                "256 GB SSD NVMe PCIe"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "14\""
+            ],
+            "Độ phân giải:": [
+                "Full HD+ (1920 x 1200)"
+            ],
+            "Tần số quét:": [
+                "60Hz"
+            ],
+            "Độ phủ màu:": [
+                "45% NTSC"
+            ],
+            "Công nghệ màn hình:": [
+                "TFT",
+                "LED Backlit",
+                "Acer ComfyView",
+                "Độ sáng 300 nits"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card tích hợp - Intel UHD Graphics"
+            ],
+            "Công nghệ âm thanh:": [
+                "Stereo speakers"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "Jack tai nghe 3.5 mm",
+                "HDMI",
+                "3 x USB 3.1",
+                "1 x USB Type-C (hỗ trợ USB, Power Delivery và DisplayPort)"
+            ],
+            "Kết nối không dây:": [
+                "Wi-Fi 6 (802.11ax)",
+                "Bluetooth 5.1"
+            ],
+            "Khe đọc thẻ nhớ:": [
+                "Micro SD"
+            ],
+            "Webcam:": [
+                "Full HD Webcam"
+            ],
+            "Đèn bàn phím:": [
+                "Không có đèn"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 313.3 mm - Rộng 218 mm - Dày 16.9 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "1.5 kg"
+            ],
+            "Chất liệu:": [
+                "Vỏ nhựa - nắp lưng bằng kim loại"
+            ]
+        },
+        "Thông tin khác": {
+            "Thông tin Pin:": [
+                "3-cell Li-ion, 58 Wh"
+            ],
+            "Công suất bộ sạc:": [
+                "65 W"
+            ],
+            "Hệ điều hành:": [
+                "Windows 11 Home SL"
+            ],
+            "Thời điểm ra mắt:": [
+                "2024"
+            ]
+        }
+    },
+    "https://www.thegioididong.com/laptop/lenovo-loq-gaming-15iax9-i5-83gs000jvn": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "Intel Core i5 Alder Lake - 12450HX"
+            ],
+            "Số nhân:": [
+                "8"
+            ],
+            "Số luồng:": [
+                "12"
+            ],
+            "Tốc độ CPU:": [
+                "Hãng không công bố"
+            ],
+            "Tốc độ tối đa:": [
+                "Turbo Boost 4.4 GHz"
+            ],
+            "Bộ nhớ đệm:": [
+                "12 MB"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "16 GB"
+            ],
+            "Loại RAM:": [
+                "DDR5 2 khe (1 khe 8 GB + 1 khe 8 GB)"
+            ],
+            "Tốc độ Bus RAM:": [
+                "4800 MHz"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "32 GB"
+            ],
+            "Ổ cứng:": [
+                "512 GB SSD NVMe PCIe Gen 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB (2242) / 512 GB (2280))"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "15.6\""
+            ],
+            "Độ phân giải:": [
+                "Full HD (1920 x 1080)"
+            ],
+            "Tần số quét:": [
+                "144Hz"
+            ],
+            "Độ phủ màu:": [
+                "100% sRGB"
+            ],
+            "Công nghệ màn hình:": [
+                "Low Blue Light",
+                "G-Sync",
+                "Tấm nền IPS",
+                "Chống chói Anti Glare",
+                "Độ sáng 300 nits"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card rời - NVIDIA GeForce RTX 3050, 6 GB"
+            ],
+            "Công nghệ âm thanh:": [
+                "Nahimic Audio"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "LAN (RJ45)",
+                "Jack tai nghe 3.5 mm",
+                "3 x USB 3.2",
+                "HDMI",
+                "1 x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery 140W và DisplayPort 1.4)"
+            ],
+            "Kết nối không dây:": [
+                "Bluetooth 5.2",
+                "Wi-Fi 6 (802.11ax)"
+            ],
+            "Webcam:": [
+                "HD webcam"
+            ],
+            "Tính năng khác:": [
+                "TPM 2.0",
+                "AI Chip LA1",
+                "Bản lề mở 180 độ",
+                "Công tắc khóa camera"
+            ],
+            "Đèn bàn phím:": [
+                "Đơn sắc - Màu trắng"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 359.86 mm - Rộng 258.7 mm - Dày 23.9 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "2.38 kg"
+            ],
+            "Chất liệu:": [
+                "Vỏ nhựa"
+            ]
+        },
+        "Thông tin khác": {
+            "Thông tin Pin:": [
+                "60 Wh"
+            ],
+            "Công suất bộ sạc:": [
+                "170 W"
+            ],
+            "Hệ điều hành:": [
+                "Windows 11 Home SL"
+            ],
+            "Thời điểm ra mắt:": [
+                "2024"
+            ]
+        }
+    },
+    "https://www.thegioididong.com/laptop/asus-vivobook-k3605zf-i5-rp745w?utm_flashsale=1": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "Intel Core i5 Alder Lake - 12500H"
+            ],
+            "Số nhân:": [
+                "12"
+            ],
+            "Số luồng:": [
+                "16"
+            ],
+            "Tốc độ CPU:": [
+                "2.5GHz"
+            ],
+            "Tốc độ tối đa:": [
+                "Turbo Boost 4.5 GHz"
+            ],
+            "Bộ nhớ đệm:": [
+                "18 MB"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "16 GB"
+            ],
+            "Loại RAM:": [
+                "DDR4 2 khe (8 GB onboard + 1 khe 8 GB)"
+            ],
+            "Tốc độ Bus RAM:": [
+                "3200 MHz"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "24 GB"
+            ],
+            "Ổ cứng:": [
+                "512 GB SSD NVMe PCIe"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "16\""
+            ],
+            "Độ phân giải:": [
+                "WUXGA"
+            ],
+            "Tần số quét:": [
+                "144Hz"
+            ],
+            "Độ phủ màu:": [
+                "45% NTSC"
+            ],
+            "Công nghệ màn hình:": [
+                "Chống chói Anti Glare",
+                "LED Backlit",
+                "Độ sáng 300 nits"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card rời - NVIDIA GeForce RTX 2050, 4 GB"
+            ],
+            "Công nghệ âm thanh:": [
+                "SonicMaster audio"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "Jack tai nghe 3.5 mm",
+                "2 x USB 3.2",
+                "HDMI",
+                "1 x USB Type C (chỉ hỗ trợ Power Delivery)"
+            ],
+            "Kết nối không dây:": [
+                "Wi-Fi 6E (802.11ax)",
+                "Bluetooth 5.3"
+            ],
+            "Khe đọc thẻ nhớ:": [
+                "SD"
+            ],
+            "Webcam:": [
+                "HD webcam"
+            ],
+            "Tính năng khác:": [
+                "Lớp phủ ASUS Antimicrobial Guard",
+                "Độ bền chuẩn quân đội MIL STD 810H",
+                "Bản lề mở 180 độ",
+                "Công tắc khóa camera"
+            ],
+            "Đèn bàn phím:": [
+                "Đơn sắc - Màu trắng"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 358.6 mm - Rộng 249.1 mm - Dày 18.9 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "1.8 kg"
+            ],
+            "Chất liệu:": [
+                "Vỏ nhựa - nắp lưng bằng kim loại"
+            ]
+        },
+        "Thông tin khác": {
+            "Thông tin Pin:": [
+                "3-cell, 50Wh"
+            ],
+            "Công suất bộ sạc:": [
+                "120 W"
+            ],
+            "Hệ điều hành:": [
+                "Windows 11 Home SL"
+            ],
+            "Thời điểm ra mắt:": [
+                "2024"
+            ]
+        }
+    },
+    "https://www.thegioididong.com/laptop/apple-macbook-air-m2-2022?utm_flashsale=1": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "Apple M2"
+            ],
+            "Số nhân:": [
+                "8"
+            ],
+            "Số luồng:": [
+                "Hãng không công bố"
+            ],
+            "Tốc độ CPU:": [
+                "100GB/s"
+            ],
+            "Tốc độ tối đa:": [
+                "Hãng không công bố"
+            ],
+            "Bộ nhớ đệm:": [
+                "Hãng không công bố"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "8 GB"
+            ],
+            "Loại RAM:": [
+                "Hãng không công bố"
+            ],
+            "Tốc độ Bus RAM:": [
+                "Hãng không công bố"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "Không hỗ trợ nâng cấp"
+            ],
+            "Ổ cứng:": [
+                "256 GB SSD"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "13.6\""
+            ],
+            "Độ phân giải:": [
+                "Liquid Retina (2560 x 1664)"
+            ],
+            "Tần số quét:": [
+                "Hãng không công bố"
+            ],
+            "Công nghệ màn hình:": [
+                "Wide color (P3)",
+                "500 nits brightness",
+                "True Tone Technology",
+                "1 tỷ màu"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card tích hợp - 8 nhân GPU"
+            ],
+            "Công nghệ âm thanh:": [
+                "Spatial Audio",
+                "3 microphones",
+                "4 Loa",
+                "Dolby Atmos"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "MagSafe 3",
+                "Jack tai nghe 3.5 mm",
+                "2 x Thunderbolt 3"
+            ],
+            "Kết nối không dây:": [
+                "Wi-Fi 6 (802.11ax)",
+                "Bluetooth 5.3"
+            ],
+            "Webcam:": [
+                "1080p FaceTime HD camera"
+            ],
+            "Tính năng khác:": [
+                "Sạc MagSafe",
+                "Bảo mật vân tay"
+            ],
+            "Đèn bàn phím:": [
+                "Đơn sắc - Màu trắng"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 304.1 mm - Rộng 215 mm - Dày 11.3 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "1.24 kg"
+            ],
+            "Chất liệu:": [
+                "Vỏ kim loại"
+            ]
+        },
+        "Thông tin khác": {
+            "Thông tin Pin:": [
+                "Lên đến 18 giờ"
+            ],
+            "Hệ điều hành:": [
+                "macOS"
+            ],
+            "Thời điểm ra mắt:": [
+                "6/2022"
+            ]
+        }
+    },
+    "https://www.thegioididong.com/laptop/acer-aspire-lite-14-51m-36pn-i3-nxktwsv001": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "Intel Core i3 Alder Lake - 1215U"
+            ],
+            "Số nhân:": [
+                "6"
+            ],
+            "Số luồng:": [
+                "8"
+            ],
+            "Tốc độ CPU:": [
+                "1.2GHz"
+            ],
+            "Tốc độ tối đa:": [
+                "Turbo Boost 4.4 GHz"
+            ],
+            "Bộ nhớ đệm:": [
+                "10 MB"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "8 GB"
+            ],
+            "Loại RAM:": [
+                "DDR5 2 khe (1 khe 8 GB + 1 khe trống)"
+            ],
+            "Tốc độ Bus RAM:": [
+                "4800 MHz"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "16 GB"
+            ],
+            "Ổ cứng:": [
+                "512 GB SSD NVMe PCIe"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "14\""
+            ],
+            "Độ phân giải:": [
+                "Full HD+ (1920 x 1200)"
+            ],
+            "Tần số quét:": [
+                "60Hz"
+            ],
+            "Độ phủ màu:": [
+                "45% NTSC"
+            ],
+            "Công nghệ màn hình:": [
+                "TFT",
+                "LED Backlit",
+                "Acer ComfyView",
+                "Độ sáng 300 nits"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card tích hợp - Intel UHD Graphics"
+            ],
+            "Công nghệ âm thanh:": [
+                "Stereo speakers"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "Jack tai nghe 3.5 mm",
+                "HDMI",
+                "3 x USB 3.1",
+                "1 x USB Type-C (hỗ trợ USB, Power Delivery và DisplayPort)"
+            ],
+            "Kết nối không dây:": [
+                "Wi-Fi 6 (802.11ax)",
+                "Bluetooth 5.1"
+            ],
+            "Khe đọc thẻ nhớ:": [
+                "Micro SD"
+            ],
+            "Webcam:": [
+                "Full HD Webcam"
+            ],
+            "Đèn bàn phím:": [
+                "Không có đèn"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 313.3 mm - Rộng 218 mm - Dày 16.9 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "1.5 kg"
+            ],
+            "Chất liệu:": [
+                "Vỏ nhựa - nắp lưng bằng kim loại"
+            ]
+        },
+        "Thông tin khác": {
+            "Thông tin Pin:": [
+                "3-cell Li-ion, 58 Wh"
+            ],
+            "Công suất bộ sạc:": [
+                "65 W"
+            ],
+            "Hệ điều hành:": [
+                "Windows 11 Home SL"
+            ],
+            "Thời điểm ra mắt:": [
+                "2024"
+            ]
+        }
+    },
+    "https://www.thegioididong.com/laptop/hp-15-fd0015tu-i7-a19c5pa": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "Intel Core i7 Raptor Lake - 1355U"
+            ],
+            "Số nhân:": [
+                "10"
+            ],
+            "Số luồng:": [
+                "12"
+            ],
+            "Tốc độ CPU:": [
+                "1.7GHz"
+            ],
+            "Tốc độ tối đa:": [
+                "Turbo Boost 5.0 GHz"
+            ],
+            "Bộ nhớ đệm:": [
+                "12 MB"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "16 GB"
+            ],
+            "Loại RAM:": [
+                "DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB)"
+            ],
+            "Tốc độ Bus RAM:": [
+                "3200 MHz"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "16 GB"
+            ],
+            "Ổ cứng:": [
+                "512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "15.6\""
+            ],
+            "Độ phân giải:": [
+                "Full HD (1920 x 1080)"
+            ],
+            "Tần số quét:": [
+                "60Hz"
+            ],
+            "Độ phủ màu:": [
+                "62.5% sRGB"
+            ],
+            "Công nghệ màn hình:": [
+                "Chống chói Anti Glare",
+                "250 nits"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card tích hợp - Intel Iris Xe Graphics"
+            ],
+            "Công nghệ âm thanh:": [
+                "Realtek High Definition Audio"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "Jack tai nghe 3.5 mm",
+                "2 x USB Type-A",
+                "HDMI",
+                "1 x USB Type-C (chỉ hỗ trợ truyền dữ liệu)"
+            ],
+            "Kết nối không dây:": [
+                "Wi-Fi 6 (802.11ax)",
+                "Bluetooth 5.3"
+            ],
+            "Webcam:": [
+                "HD webcam"
+            ],
+            "Tính năng khác:": [
+                "Công tắc khóa camera"
+            ],
+            "Đèn bàn phím:": [
+                "Không có đèn"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 359.8 mm - Rộng 236 mm - Dày 18.6 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "1.59 kg"
+            ],
+            "Chất liệu:": [
+                "Vỏ nhựa"
+            ]
+        },
+        "Thông tin khác": {
+            "Thông tin Pin:": [
+                "3-cell, 41Wh"
+            ],
+            "Công suất bộ sạc:": [
+                "45 W"
+            ],
+            "Hệ điều hành:": [
+                "Windows 11 Home SL"
+            ],
+            "Thời điểm ra mắt:": [
+                "2024"
+            ]
+        }
+    },
+    "https://www.thegioididong.com/laptop/dell-latitude-3440-i5-l3440i51235u16g512g": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "Intel Core i5 Alder Lake - 1235U"
+            ],
+            "Số nhân:": [
+                "10"
+            ],
+            "Số luồng:": [
+                "12"
+            ],
+            "Tốc độ CPU:": [
+                "1.3GHz"
+            ],
+            "Tốc độ tối đa:": [
+                "Turbo Boost 4.4 GHz"
+            ],
+            "Bộ nhớ đệm:": [
+                "12 MB"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "16 GB"
+            ],
+            "Loại RAM:": [
+                "DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB)"
+            ],
+            "Tốc độ Bus RAM:": [
+                "3200 MHz"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "64 GB"
+            ],
+            "Ổ cứng:": [
+                "512 GB SSD NVMe PCIe 4.0 (Có thể tháo ra, lắp thanh khác tối đa 1 TB)"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "14\""
+            ],
+            "Độ phân giải:": [
+                "Full HD (1920 x 1080)"
+            ],
+            "Tần số quét:": [
+                "60Hz"
+            ],
+            "Độ phủ màu:": [
+                "45% NTSC"
+            ],
+            "Công nghệ màn hình:": [
+                "Chống chói Anti Glare",
+                "250 nits"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card tích hợp - Intel Iris Xe Graphics"
+            ],
+            "Công nghệ âm thanh:": [
+                "Realtek Audio"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "LAN (RJ45)",
+                "Jack tai nghe 3.5 mm",
+                "2 x USB 3.2",
+                "HDMI",
+                "1 x USB 3.2 (Always on)",
+                "1 x USB Type-C 3.2 (hỗ trợ Power Delivery và DisplayPort)"
+            ],
+            "Kết nối không dây:": [
+                "Wi-Fi 6 (802.11ax)",
+                "Bluetooth 5.3"
+            ],
+            "Webcam:": [
+                "Full HD Webcam"
+            ],
+            "Tính năng khác:": [
+                "Bản lề mở 180 độ",
+                "Công tắc khóa camera"
+            ],
+            "Đèn bàn phím:": [
+                "Không có đèn"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 322.17 mm - Rộng 219.43 mm - Dày 19.37 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "1.54 kg"
+            ],
+            "Chất liệu:": [
+                "Vỏ nhựa"
+            ]
+        },
+        "Thông tin khác": {
+            "Thông tin Pin:": [
+                "3-cell, 41Wh"
+            ],
+            "Công suất bộ sạc:": [
+                "65 W"
+            ],
+            "Hệ điều hành:": [
+                "Windows 11 Home SL"
+            ],
+            "Thời điểm ra mắt:": [
+                "2024"
+            ]
+        }
+    },
+    "https://www.thegioididong.com/laptop/msi-gf63-thin-12ve-i5-460vn?utm_flashsale=1": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "Intel Core i5 Alder Lake - 12450H"
+            ],
+            "Số nhân:": [
+                "8"
+            ],
+            "Số luồng:": [
+                "12"
+            ],
+            "Tốc độ CPU:": [
+                "2GHz"
+            ],
+            "Tốc độ tối đa:": [
+                "Turbo Boost 4.4 GHz"
+            ],
+            "Bộ nhớ đệm:": [
+                "12 MB"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "16 GB"
+            ],
+            "Loại RAM:": [
+                "DDR4 2 khe (1 khe 8 GB + 1 khe 8 GB)"
+            ],
+            "Tốc độ Bus RAM:": [
+                "3200 MHz"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "64 GB"
+            ],
+            "Ổ cứng:": [
+                "512 GB SSD NVMe PCIe Gen 4.0",
+                "Hỗ trợ khe cắm HDD SATA 2.5 inch mở rộng"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "15.6\""
+            ],
+            "Độ phân giải:": [
+                "Full HD (1920 x 1080)"
+            ],
+            "Tần số quét:": [
+                "144Hz"
+            ],
+            "Độ phủ màu:": [
+                "45% NTSC"
+            ],
+            "Công nghệ màn hình:": [
+                "Tấm nền IPS",
+                "Chống chói Anti Glare"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card rời - NVIDIA GeForce RTX 4050, 6 GB"
+            ],
+            "Công nghệ âm thanh:": [
+                "Hi-Res Audio",
+                "Nahimic Audio"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "LAN (RJ45)",
+                "Jack tai nghe 3.5 mm",
+                "1x Mic-in",
+                "3 x USB 3.2",
+                "HDMI",
+                "1 x USB Type-C (hỗ trợ USB 3.2, DisplayPort)"
+            ],
+            "Kết nối không dây:": [
+                "Bluetooth 5.2",
+                "Wi-Fi 6 (802.11ax)"
+            ],
+            "Webcam:": [
+                "HD webcam"
+            ],
+            "Tản nhiệt:": [
+                "Cooler Boost"
+            ],
+            "Đèn bàn phím:": [
+                "Đơn sắc - Màu đỏ"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 359 mm - Rộng 254 mm - Dày 21.7 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "1.86 kg"
+            ],
+            "Chất liệu:": [
+                "Nắp lưng và chiếu nghỉ tay bằng kim loại"
+            ]
+        },
+        "Thông tin khác": {
+            "Thông tin Pin:": [
+                "3-cell Li-ion, 52.4 Wh"
+            ],
+            "Công suất bộ sạc:": [
+                "120 W"
+            ],
+            "Hệ điều hành:": [
+                "Windows 11 Home SL"
+            ],
+            "Thời điểm ra mắt:": [
+                "2023"
+            ]
+        }
+    },
+    "https://www.thegioididong.com/laptop/lenovo-loq-15iax9-i5-83gs00d9vn": {
+        "Bộ xử lý": {
+            "Công nghệ CPU:": [
+                "Intel Core i5 Alder Lake - 12450HX"
+            ],
+            "Số nhân:": [
+                "8"
+            ],
+            "Số luồng:": [
+                "12"
+            ],
+            "Tốc độ CPU:": [
+                "Hãng không công bố"
+            ],
+            "Tốc độ tối đa:": [
+                "Turbo Boost 4.4 GHz"
+            ],
+            "Bộ nhớ đệm:": [
+                "12 MB"
+            ]
+        },
+        "Bộ nhớ RAM, Ổ cứng": {
+            "RAM:": [
+                "24 GB"
+            ],
+            "Loại RAM:": [
+                "DDR5 2 khe (1 khe 12 GB + 1 khe 12 GB)"
+            ],
+            "Tốc độ Bus RAM:": [
+                "4800 MHz"
+            ],
+            "Hỗ trợ RAM tối đa:": [
+                "32 GB"
+            ],
+            "Ổ cứng:": [
+                "512 GB SSD NVMe PCIe (Có thể tháo ra, lắp thanh khác tối đa 1 TB)"
+            ]
+        },
+        "Màn hình": {
+            "Màn hình:": [
+                "15.6\""
+            ],
+            "Độ phân giải:": [
+                "Full HD (1920 x 1080)"
+            ],
+            "Tần số quét:": [
+                "144Hz"
+            ],
+            "Độ phủ màu:": [
+                "100% sRGB"
+            ],
+            "Công nghệ màn hình:": [
+                "Low Blue Light",
+                "G-Sync",
+                "Tấm nền IPS",
+                "Chống chói Anti Glare",
+                "Độ sáng 300 nits"
+            ]
+        },
+        "Đồ họa và Âm thanh": {
+            "Card màn hình:": [
+                "Card rời - NVIDIA GeForce RTX 3050, 6 GB"
+            ],
+            "Công nghệ âm thanh:": [
+                "Nahimic Audio"
+            ]
+        },
+        "Cổng kết nối & tính năng mở rộng": {
+            "Cổng giao tiếp:": [
+                "LAN (RJ45)",
+                "Jack tai nghe 3.5 mm",
+                "3 x USB 3.2",
+                "HDMI",
+                "1 x USB-C 3.2 (hỗ trợ truyền dữ liệu, Power Delivery 140W và DisplayPort 1.4)"
+            ],
+            "Kết nối không dây:": [
+                "Bluetooth 5.2",
+                "Wi-Fi 6 (802.11ax)"
+            ],
+            "Webcam:": [
+                "HD webcam"
+            ],
+            "Tính năng khác:": [
+                "TPM 2.0",
+                "AI Chip LA1",
+                "Độ bền chuẩn quân đội MIL STD 810H",
+                "Bản lề mở 180 độ",
+                "Công tắc khóa camera"
+            ],
+            "Đèn bàn phím:": [
+                "Đơn sắc - Màu trắng"
+            ]
+        },
+        "Kích thước & khối lượng": {
+            "Kích thước:": [
+                "Dài 359.86 mm - Rộng 258.7 mm - Dày 23.9 mm"
+            ],
+            "Khối lượng tịnh:": [
+                "2.38 kg"
+            ],
+            "Chất liệu:": [
+                "Vỏ nhựa"
+            ]
+        },
+        "Thông tin khác": {
+            "Thông tin Pin:": [
+                "60 Wh"
+            ],
+            "Công suất bộ sạc:": [
+                "170 W"
+            ],
+            "Hệ điều hành:": [
+                "Windows 11 Home SL"
+            ],
+            "Thời điểm ra mắt:": [
+                "2024"
+            ]
+        }
+    }
+}
